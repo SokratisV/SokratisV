@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SokratisV.
+- 👀 I’m interested in improving my programming skills and knowledge.
+- 🌱 I’m currently learning Game Development using Unity and C#.
+- 💞️ I’m looking to collaborate on Small to Medium sized projects (games).
+- 📫 How to reach me: sokvogiatzakis@gmail.com 
